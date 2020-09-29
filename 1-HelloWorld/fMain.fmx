@@ -1,0 +1,47 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  FullScreen = True
+  OnResize = FormResize
+  DesignerMasterStyle = 0
+  object Text1: TText
+    Align = Center
+    Size.Width = 346.000000000000000000
+    Size.Height = 114.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Hello World'
+    TextSettings.Font.Size = 48.000000000000000000
+    TextSettings.Font.StyleExt = {04070000000000000004000000}
+  end
+  object Text2: TText
+    Align = Bottom
+    Position.Y = 430.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Text = '(c) 2020 developpeur-pascal.fr'
+  end
+  object Text3: TText
+    Align = Bottom
+    Position.Y = 380.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Text = 
+      'Made with Delphi FireMonkey for a french webinar on Android TV a' +
+      'pp development.'
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+  object Text4: TText
+    Align = Top
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+  end
+end

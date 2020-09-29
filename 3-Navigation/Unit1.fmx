@@ -1,0 +1,109 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnKeyUp = FormKeyUp
+  DesignerMasterStyle = 0
+  object Pie1: TPie
+    Align = Center
+    HitTest = False
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    EndAngle = 71.000000000000000000
+  end
+  object Pie2: TPie
+    Align = Center
+    HitTest = False
+    Size.Width = 150.000000000000000000
+    Size.Height = 150.000000000000000000
+    Size.PlatformDefault = False
+    StartAngle = 72.000000000000000000
+    EndAngle = 143.000000000000000000
+  end
+  object Pie3: TPie
+    Align = Center
+    HitTest = False
+    Size.Width = 200.000000000000000000
+    Size.Height = 200.000000000000000000
+    Size.PlatformDefault = False
+    StartAngle = 144.000000000000000000
+    EndAngle = 215.000000000000000000
+  end
+  object Pie4: TPie
+    Align = Center
+    HitTest = False
+    Size.Width = 250.000000000000000000
+    Size.Height = 250.000000000000000000
+    Size.PlatformDefault = False
+    StartAngle = 216.000000000000000000
+    EndAngle = 287.000000000000000000
+  end
+  object Pie5: TPie
+    Align = Center
+    HitTest = False
+    Size.Width = 300.000000000000000000
+    Size.Height = 300.000000000000000000
+    Size.PlatformDefault = False
+    StartAngle = 288.000000000000000000
+    EndAngle = 359.000000000000000000
+  end
+  object GridPanelLayout1: TGridPanelLayout
+    Align = Bottom
+    Position.Y = 430.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    ColumnCollection = <
+      item
+        Value = 50.000000000000000000
+      end
+      item
+        Value = 50.000000000000000000
+      end>
+    ControlCollection = <
+      item
+        Column = 0
+        Control = Rectangle1
+        Row = 0
+      end
+      item
+        Column = 1
+        Control = Rectangle2
+        Row = 0
+      end>
+    RowCollection = <
+      item
+        Value = 100.000000000000000000
+      end>
+    object Rectangle1: TRectangle
+      Align = Client
+      HitTest = False
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object Rectangle2: TRectangle
+      Align = Client
+      HitTest = False
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+end

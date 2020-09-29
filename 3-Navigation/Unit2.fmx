@@ -1,0 +1,31 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnKeyUp = FormKeyUp
+  DesignerMasterStyle = 0
+  object Text1: TText
+    Align = Top
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Text = '1'
+    TextSettings.Font.Size = 48.000000000000000000
+  end
+  object Rectangle1: TRectangle
+    Align = Center
+    HitTest = False
+    Size.Width = 50.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    object Text2: TText
+      Align = Client
+      Text = '3'
+    end
+  end
+end
