@@ -1,0 +1,3 @@
+[submodule "4-Navigation-GameController/lib-externe/Delphi-Game-Engine"]
+	path = 4-Navigation-GameController/lib-externe/Delphi-Game-Engine
+	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
