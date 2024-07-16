@@ -12,8 +12,8 @@ uses
   Unit7 in 'Unit7.pas' {DataModule7: TDataModule},
   Gamolf.FMX.Joystick in 'lib-externe\Delphi-Game-Engine\src\Gamolf.FMX.Joystick.pas',
   Gamolf.RTL.Joystick in 'lib-externe\Delphi-Game-Engine\src\Gamolf.RTL.Joystick.pas',
-  Gamolf.RTL.Joystick.Windows in 'lib-externe\Delphi-Game-Engine\src\Gamolf.RTL.Joystick.Windows.pas',
-  JoystickManager in 'JoystickManager.pas';
+  JoystickManager in 'JoystickManager.pas',
+  Gamolf.RTL.Joystick.DirectInput.Win in 'lib-externe\Delphi-Game-Engine\src\Gamolf.RTL.Joystick.DirectInput.Win.pas';
 
 {$R *.res}
 
