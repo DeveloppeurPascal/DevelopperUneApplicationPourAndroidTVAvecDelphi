@@ -1,7 +1,10 @@
 # Développer une application pour Android TV avec Delphi
+
 Sources des exemples et démonstrations liées au webinaire "Développer une application pour Android TV avec Delphi" du 29 Septembre 2020.
 
-La rediffusion de la session, les slides de la présentation et des documents additionnels sont disponibles sur https://developpeur-pascal.fr/p/_22003-webinaire-du-29-septembre-2020-developper-une-application-pour-android-tv-avec-delphi.html
+Pour des explications complémentaires rendez-vous sur [la page dédiée à cette présentation](https://developpeur-pascal.fr/webinaire-du-29-septembre-2020-developper-une-application-pour-android-tv-avec-delphi.html) sur [le blog Développeur Pascal](https://developpeur-pascal.fr/).
+
+La [rediffusion de ce webinaire](https://serialstreameur.fr/webinaire-20200929.php) est visible sur [Serial Streameur](https://serialstreameur.fr/) et la [chaîne Youtube de Barnsten France](https://www.youtube.com/@BarnstenFrance).
 
 -----
 
