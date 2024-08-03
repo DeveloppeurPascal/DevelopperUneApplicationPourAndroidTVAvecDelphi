@@ -1,3 +1,41 @@
+/// <summary>
+/// ***************************************************************************
+///
+/// Développer une application pour Android TV avec Delphi
+///
+/// Copyright 2020-2024 Patrick Prémartin under MIT license.
+///
+/// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+/// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+/// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+/// THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+/// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+/// FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+/// DEALINGS IN THE SOFTWARE.
+///
+/// ***************************************************************************
+///
+/// Sources des exemples et démonstrations liées au webinaire
+/// "Développer une application pour Android TV avec Delphi" du 29 Septembre
+/// 2020.
+///
+/// ***************************************************************************
+///
+/// Author(s) :
+///      Patrick PREMARTIN
+///
+/// Site :
+///      https://serialstreameur.fr/webinaire-20200929.php
+///
+/// Project site :
+///      https://github.com/DeveloppeurPascal/DevelopperUneApplicationPourAndroidTVAvecDelphi
+///
+/// ***************************************************************************
+/// File last update : 03/08/2024 16:05:35
+/// Signature : 44550f00e4b8513b2b0eb57439a0565babf8f96e
+/// ***************************************************************************
+/// </summary>
+
 unit Unit1;
 
 interface
