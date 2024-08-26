@@ -6,6 +6,8 @@ Pour des explications complémentaires rendez-vous sur [la page dédiée à cett
 
 La [rediffusion de ce webinaire](https://serialstreameur.fr/webinaire-20200929.php) est visible sur [Serial Streameur](https://serialstreameur.fr/) et la [chaîne Youtube de Barnsten France](https://www.youtube.com/@BarnstenFrance).
 
+L'application TV HelloWorld est disponible sur Google play si vous voulez la tester sur votre appareil. Installez-la depuis [ce lien](https://play.google.com/store/apps/details?id=fr.olfsoftware.webinar.androidtv.helloworld).
+
 -----
 
 Si vous ne connaissez pas Delphi et le langage Pascal, profitez de la version Academic (pour les étudiants, enseignants et établissements d'enseignement) ou Community Edition (gratuite pour une utilisation personnelle) disponibles chez Embarcadero (rubrique "outils gratuits").
